@@ -15,12 +15,12 @@ A premium, modern, and highly interactive Android expense-tracking application b
 *   **📂 Persistent Storage**: Saves data locally using secure SharedPreferences with JSON serialization, preserving state across device reboots.
 
 ---
-## 📸 Screenshots
 
+## 📸 App Showcase
 
-<img width="1080" height="2400" alt="Screenshot_1780174672" src="https://github.com/user-attachments/assets/cceb8366-846d-43b7-a55d-62821f4e1b92" />
-<img width="1080" height="2400" alt="Screenshot_1780174678" src="https://github.com/user-attachments/assets/a85c96a1-6e59-4165-9b13-1e13c8abdba1" />
-<img width="1080" height="2400" alt="Screenshot_1780174684" src="https://github.com/user-attachments/assets/d8f92e2a-92f6-4db0-8825-23a23bb5cd0d" />
+| 📊 Interactive Dashboard | 🔍 Timeline Search | ⚙️ Data Settings Hub |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/cceb8366-846d-43b7-a55d-62821f4e1b92" width="300" alt="Dashboard" /> | <img src="https://github.com/user-attachments/assets/a85c96a1-6e59-4165-9b13-1e13c8abdba1" width="300" alt="Search Screen" /> | <img src="https://github.com/user-attachments/assets/d8f92e2a-92f6-4db0-8825-23a23bb5cd0d" width="300" alt="Data Hub Settings" /> |
 
 -----------------
 ## 🛠️ Tech Stack & Architecture
