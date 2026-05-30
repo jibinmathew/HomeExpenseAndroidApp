@@ -17,9 +17,7 @@ A premium, modern, and highly interactive Android expense-tracking application b
 ---
 ## 📸 Screenshots
 
-<img width="349" height="620" alt="Screenshot 2026-05-30 at 2 34 29 PM" src="https://github.com/user-attachments/assets/84aca0c3-501f-462d-8260-0f2366d4b468" />
-
-
+<img width="339" height="759" alt="Screenshot 2026-05-30 at 2 34 15 PM" src="https://github.com/user-attachments/assets/aa56f3a9-b6f5-4f33-9106-95218a610f4b" />
 
 
 -----------------
