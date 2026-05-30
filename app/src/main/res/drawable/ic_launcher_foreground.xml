@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Elegant minimal modern house shape vector -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 L20,50 C18.8,50.9 19.3,52.8 20.8,52.8 L28,52.8 L28,82 C28,84.2 29.8,86 32,86 L46,86 L46,66 C46,63.8 47.8,62 50,62 L58,62 C60.2,62 62,63.8 62,66 L62,86 L76,86 C78.2,86 80,84.2 80,82 L80,52.8 L87.2,52.8 C88.7,52.8 89.2,50.9 88,50 L54,24 Z" />
+    
+    <!-- An elegant premium emerald glowing attic window -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,36 C57.3,36 60,38.7 60,42 C60,45.3 57.3,48 54,48 C50.7,48 48,45.3 48,42 C48,38.7 50.7,36 54,36 Z" />
+</vector>
